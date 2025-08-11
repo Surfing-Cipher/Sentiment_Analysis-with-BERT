@@ -39,7 +39,7 @@ This project demonstrates how to fine-tune a pre-trained BERT model for binary s
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/bert-sentiment-analysis.git
+    git clone https://github.com/Surfing-Cipher/bert-sentiment-analysis.git
     cd bert-sentiment-analysis
     ```
 2.  **Create and Activate a Virtual Environment**
@@ -79,3 +79,4 @@ The model achieves high accuracy on binary sentiment classification. Key metrics
 - **Hugging Face**: For the incredible `transformers` and `datasets` libraries.
 - **Weights & Biases**: For providing powerful experiment tracking tools.
 - **Stanford AI Lab**: For the publicly available IMDB dataset.
+
